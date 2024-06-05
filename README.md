@@ -67,6 +67,8 @@ In this section, we:
 - Perform an initial exploration to understand the data distribution and key statistics.
 - Create graphs to understand the categorical and numerical columns better.
 
+![alt text](image-1.png)
+
 ### Answering Key Questions
 Here, we address several key questions about data science salaries using visualizations and calculations:
 - What is the average salary by experience level?
@@ -85,9 +87,9 @@ For example, this graph is the answer to: Is there a relationship between compan
 ![alt text](image.png)
 
 ## Libraries Used
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-import plotly as px
-import plotly.express as px
+- import pandas as pd
+- import numpy as np
+- import matplotlib.pyplot as plt
+- import seaborn as sns
+- import plotly as px
+- import plotly.express as px
