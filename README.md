@@ -81,6 +81,10 @@ Here, we address several key questions about data science salaries using visuali
 - Create a top10 with the most demanded jobs
 - Create a top 10 of the most sought-after jobs
 
+For example, this is the answer to: Is there a relationship between company size and salary?
+<iframe width="800" height="600" src="https://tudominio.com/ruta/a/tu/visualizacion.html"></iframe>
+
+
 ## Libraries Used
 import pandas as pd
 import numpy as np
