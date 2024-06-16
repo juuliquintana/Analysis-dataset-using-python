@@ -87,9 +87,9 @@ For example, this graph is the answer to: Is there a relationship between compan
 ![alt text](image.png)
 
 ## Libraries Used
-- import pandas as pd
-- import numpy as np
-- import matplotlib.pyplot as plt
-- import seaborn as sns
-- import plotly as px
-- import plotly.express as px
+- pandas
+- numpy
+- matplotlib.pyplot
+- seaborn 
+- plotly 
+- plotly.express 
